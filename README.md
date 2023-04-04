@@ -3,4 +3,4 @@ Toy xiqito
 
 README.md fue editado manualmente :v
 
-Este archivo fue modificado localmente
+Esta linea fue resolvida manual pasandome por encima los conflictos
